@@ -34,3 +34,7 @@ Tela de registro de custo
 Tela de Clientes
  ``` 
  ![interface](https://github.com/fernandoguim/efraim/blob/main/tabela%20de%20cliente.PNG)
+ 
+  ```
+Tela de Pagamentos
+ ``` 
