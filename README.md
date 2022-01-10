@@ -35,6 +35,9 @@ Tela de Clientes
  ``` 
  ![interface](https://github.com/fernandoguim/efraim/blob/main/tabela%20de%20cliente.PNG)
  
-  ```
+ ```
 Tela de Pagamentos
+ ``` 
+  ```
+Tela de Aniversariante do dia
  ``` 
