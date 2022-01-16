@@ -38,6 +38,10 @@ Tela de Clientes
  ```
 Tela de Pagamentos
  ``` 
-  ```
+ ```
 Tela de Aniversariante do dia
+ ``` 
+ 
+  ```
+Tela de usuarios
  ``` 
