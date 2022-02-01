@@ -47,6 +47,9 @@ Tela de Pagamentos
  ```
 Tela de Aniversariante do dia
  ``` 
+  ```
+Tela de pedidos
+ ``` 
  
   ```
 Tela de usuarios
