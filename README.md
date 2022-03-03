@@ -30,9 +30,7 @@ Tela de registro de custo
  ``` 
 ![interface](https://github.com/fernandoguim/efraim/blob/main/custo.PNG)
 
- ```
-Tela de Clientes
- ``` 
+
   ```
 Tela de Selecionar Produto
  ``` 
@@ -58,5 +56,10 @@ Tela de usuarios
  
   ```
 Tela de Material
- ``` 
+``` 
  ![interface](https://github.com/fernandoguim/efraim/blob/main/material.PNG)
+
+
+ ``` 
+Contas a Pagar Gastos
+ ``` 
