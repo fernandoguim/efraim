@@ -64,4 +64,7 @@ Tela de Material
 Contas a Pagar Gastos
  ``` 
   ![interface](https://github.com/fernandoguim/efraim/blob/main/telacustos.PNG)
+   ![interface](https://github.com/fernandoguim/efraim/blob/main/lembretevencimento.PNG)
+  
+ 
  
